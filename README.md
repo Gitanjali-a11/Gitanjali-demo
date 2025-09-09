@@ -1,2 +1,4 @@
 # Gitanjali-demo
-This is my first Git Repository.Author-Gitanjali Khandagale
+This is my first Git Repository.
+<br>
+Author-Gitanjali Khandagale
